@@ -1,7 +1,7 @@
 # Level 2 to 3  
 **GOAL:** Find the password for the next level stored in a file called `spaces in this filename`.
 
-**Solution**  
+**Solution:**  
 I started by running `ls` to list the files in the home directory and saw a file named `spaces in this filename`.
 - I knew that spaces in filenames can cause issues if not handled properly in the shell. 
 To solve this, I used quotes to treat the entire filename as a single argument:
