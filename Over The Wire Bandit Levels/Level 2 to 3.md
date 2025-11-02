@@ -1,4 +1,4 @@
-## Level 2  
+# Level 2 to 3  
 **GOAL:** Find the password for the next level stored in a file called `spaces in this filename`.
 
 **Solution**  
