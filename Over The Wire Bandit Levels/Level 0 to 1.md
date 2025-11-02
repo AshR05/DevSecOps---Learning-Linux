@@ -5,7 +5,7 @@ The password for the next level is stored in a file called `readme` located in t
 
 ---
 
-### Solution:
+**Solution:**
 
 - Once logged in, I ran `pwd` to confirm I was in the home directory.  
 - I used `ls` to list the contents of the directory and found a file named `readme`.  
