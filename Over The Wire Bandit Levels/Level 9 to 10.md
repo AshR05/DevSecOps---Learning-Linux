@@ -13,15 +13,15 @@ The password for the next level is stored in the file `data.txt` in one of the f
 data.txt
 ```
 
-The `strings` command finds human-readable strings in files. Specifically, it prints sequences of printable characters.
+- The `strings` command finds human-readable strings in files. Specifically, it prints sequences of printable characters.
 
-To distinguish human-readable strings in ‘data.txt’. I used the `strings` command.
+- To distinguish human-readable strings in ‘data.txt’. I used the `strings` command.
 
-To filter that output by looking at lines that include more than one equal sign, the `grep` command can be used again. 
+- To filter that output by looking at lines that include more than one equal sign, the `grep` command can be used again. 
 
-The task did not specify the number of equal signs; therefore, I used 3.
+- The task did not specify the number of equal signs; therefore, I used 3.
 
-I ran the following command to obtain the password :
+- I ran the following command to obtain the password:
 
 ```bash
 strings data.txt | grep ===
