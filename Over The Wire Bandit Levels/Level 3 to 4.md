@@ -28,3 +28,4 @@ cat ...Hiding-From-You
 
 Even though the filename starts with dots (which usually hide files), no special escaping was needed since it didn’t contain spaces or special characters that the shell misinterprets.
 
+<img width="2736" height="1722" alt="Level 3 to 4" src="https://github.com/user-attachments/assets/e9b92347-a223-4480-9cd5-23660536bb5a" />
