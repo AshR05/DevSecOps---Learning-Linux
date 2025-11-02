@@ -4,7 +4,7 @@
 The password for the next level is stored in a file called `-` located in the home directory.
 
 ---
-### Solution:
+**Solution:**
 
 1. I first ran `ls` to see the files in the home directory and found a file named `-`.
 2. Initially, I tried reading it using `cat -`, but I realised this didn’t work as expected because `-` is interpreted as stdin (standard input).
