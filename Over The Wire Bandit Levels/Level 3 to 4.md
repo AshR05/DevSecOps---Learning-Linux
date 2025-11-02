@@ -1,11 +1,11 @@
-# Level 3 > 4
+# Level 3 to 4
 
 **GOAL:**  
 The password for the next level is stored in a hidden file in the `inhere` directory.
 
 ---
 
-### Solution:
+**Solution:**
 
 - I ran `ls` in the home directory and found a subdirectory named `inhere`.
 
