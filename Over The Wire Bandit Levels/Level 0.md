@@ -1,7 +1,7 @@
 ## Level 0
 **GOAL:** Connect to the Bandit server using SSH with the given credentials.
 
-**What I Did:**  
+**Solution:**  
 I ran the SSH command with port and user flags.
 
 ```bash
